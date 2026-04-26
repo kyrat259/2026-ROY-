@@ -1,0 +1,1 @@
+Built a predictive model to forecast winners for NBA 2025-26 NBA season ROY (Rookie of the Year) using historical data. I analyzed trends from past seasons and constructed a model to estimate the likelihood of each award winner based on player performance metrics. 
